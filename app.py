@@ -11,7 +11,7 @@ class testclass:
 
 if __name__=="__main__":
     tc = testclass("jimmy")
-    print("class name is %",tc.getname())
+    print "class name is %s" % (tc.getname())
     k=input("press close to exit") 
     tc = None
 
