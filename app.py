@@ -9,6 +9,7 @@ class testclass:
     def getname(self):
         return self.MyName
 # another comment
+# and another
 if __name__=="__main__":
     tc = testclass("jimmy")
     print("class name is %",tc.getname())
