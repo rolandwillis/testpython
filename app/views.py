@@ -9,4 +9,8 @@ def index():
 def getin():
     return "Get In!"
 
+@app.route('/FindMe/<user>')
+def findme(user):
+    return user
+
 
