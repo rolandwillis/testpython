@@ -3,7 +3,7 @@ from sqlobject import *
 from flask import jsonify
 
     
-sqlhub.processConnection = connectionForURI('mssql://PythonUser:Experis123!@MPGSDWPSH0001:1402/PythonTest')
+sqlhub.processConnection = connectionForURI('mssql://user:pwd@server:port/PythonTest')
 
 class Person(SQLObject):
     firstname = StringCol()
