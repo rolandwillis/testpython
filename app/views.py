@@ -19,6 +19,11 @@ class Settings:
         self.port = j['port']
 
 
+<<<<<<< HEAD
+=======
+    
+sqlhub.processConnection = connectionForURI('mssql://user:pwd@server:port/PythonTest')
+>>>>>>> 47d240563c78eb51860ce186524026125836d690
 
 #settings = Settings("PythonUser","Experis123!","PythonTest","MPGSDWPSH0001",1402)
 with open('config.json') as json_data_file:
