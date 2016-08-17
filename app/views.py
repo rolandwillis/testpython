@@ -19,8 +19,6 @@ class Settings:
         self.port = j['port']
 
 
-<<<<<<< HEAD
-=======
     
 sqlhub.processConnection = connectionForURI('mssql://user:pwd@server:port/PythonTest')
 >>>>>>> 47d240563c78eb51860ce186524026125836d690
