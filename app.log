@@ -186,3 +186,11 @@ INFO:root:{u'lastname': u'Murs', u'firstname': u'Olly'}
 INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 15:50:47] "POST /Person/Create HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 15:51:12] "GET /Person/Get/1 HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 15:51:20] "GET /Person/Get/2 HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 185-763-847
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 15:59:45] "GET /Person/Get/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 15:59:51] "GET /Person/Get/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 15:59:57] "GET /Person/Get/3 HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 16:00:09] "GET /Person/Get/1 HTTP/1.1" 200 -
