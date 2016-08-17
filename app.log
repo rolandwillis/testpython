@@ -1,0 +1,188 @@
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 185-763-847
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 185-763-847
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:root:jsn = <Response 65 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 09:38:41] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:root:jsn = <Response 65 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 09:38:47] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 185-763-847
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:root:jsn = None
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 09:43:20] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 10:27:22] "GET /Person/Get/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 10:27:22] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 10:27:22] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 185-763-847
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:root:jsn = None
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 11:07:37] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 11:08:06] "POST /Person/Get/1 HTTP/1.1" 405 -
+INFO:root:jsn = None
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 11:08:16] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 185-763-847
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:18:58] "POST /Person/Save/1 HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:20:21] "POST /Person/Save/1 HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\WILLISR\\Documents\\testpython\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 185-763-847
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:23:06] "POST /Person/Save/1 HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\WILLISR\\Documents\\testpython\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 185-763-847
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:root:is json = False
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:26:01] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:root:is json = True
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:27:12] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:root:is json = False
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:28:05] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:28:37] "HEAD /Person/Save/1 HTTP/1.1" 405 -
+INFO:root:is json = False
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:28:40] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:root:is json = False
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:28:42] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:root:is json = False
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:28:42] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:root:is json = False
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:28:42] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:root:is json = False
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:28:42] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:root:is json = False
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:28:42] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:root:is json = False
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:28:43] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:root:is json = False
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:28:43] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:root:is json = False
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:28:43] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:root:is json = False
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:28:43] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:root:is json = False
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:28:43] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:root:is json = True
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:29:07] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:root:is json = True
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:29:36] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\WILLISR\\Documents\\testpython\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 185-763-847
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:root:is json = True
+INFO:root:<Response 54 bytes [200 OK]>
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:44:25] "POST /Person/Save/1 HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\WILLISR\\Documents\\testpython\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 185-763-847
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:root:is json = True
+INFO:root:{u'lastname': u'wallis', u'firstname': u'rawland'}
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:46:27] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:46:39] "GET /Person/Get/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:47:00] "GET /Person/Get/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:47:08] "GET /Person/Get/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:47:19] "GET /Person/Save2 HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:47:24] "POST /Person/Save2 HTTP/1.1" 404 -
+INFO:root:is json = True
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:47:31] "POST /Person/Save/2 HTTP/1.1" 400 -
+INFO:root:is json = True
+INFO:root:{u'a': u'a'}
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 12:47:53] "POST /Person/Save/2 HTTP/1.1" 500 -
+INFO:root:is json = True
+INFO:root:{u'lastname': u'beasly', u'firstname': u'andrew'}
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 14:14:23] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 14:14:35] "GET /Person/Get/1 HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 185-763-847
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 14:19:23] "GET /Person/Get/1 HTTP/1.1" 200 -
+INFO:root:is json = True
+INFO:root:{u'lastname': u'Beasly', u'firstname': u'Andrew'}
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 14:20:05] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 185-763-847
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:root:is json = True
+INFO:root:{u'lastname': u'Beasly', u'firstname': u'Andrew'}
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 14:27:54] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\WILLISR\\Documents\\testpython\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 185-763-847
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:root:is json = True
+INFO:root:{u'lastname': u'Beasly', u'firstname': u'Andrew'}
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 14:29:00] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 185-763-847
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 14:37:35] "GET /Person/Get/1 HTTP/1.1" 200 -
+INFO:root:is json = True
+INFO:root:{u'lastname': u'Beasly', u'firstname': u'Andrew'}
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 14:41:31] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 185-763-847
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 15:38:10] "GET /Person/Get/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 15:38:17] "GET /Person/Get/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 15:38:48] "GET /Person/Get/1 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\WILLISR\\Documents\\testpython\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 185-763-847
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 15:39:20] "GET /Person/Get/1 HTTP/1.1" 500 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\WILLISR\\Documents\\testpython\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 185-763-847
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 15:41:14] "GET /Person/Get/1 HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 185-763-847
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 15:42:27] "GET /Person/Get/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 15:42:33] "GET /Person/Get/1 HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 185-763-847
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 15:44:13] "GET /Person/Get/1 HTTP/1.1" 200 -
+INFO:root:is json = True
+INFO:root:{u'lastname': u'beeson', u'firstname': u'randy'}
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 15:45:01] "POST /Person/Save/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 15:45:22] "POST /Person/Get/1 HTTP/1.1" 405 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 15:45:27] "GET /Person/Get/1 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\WILLISR\\Documents\\testpython\\app\\views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 185-763-847
+INFO:werkzeug: * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+INFO:root:is json = True
+INFO:root:{u'lastname': u'Murs', u'firstname': u'Olly'}
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 15:50:47] "POST /Person/Create HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 15:51:12] "GET /Person/Get/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Aug/2016 15:51:20] "GET /Person/Get/2 HTTP/1.1" 200 -
