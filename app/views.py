@@ -18,12 +18,6 @@ class Settings:
         self.db = j['db']
         self.port = j['port']
 
-
-    
-sqlhub.processConnection = connectionForURI('mssql://user:pwd@server:port/PythonTest')
->>>>>>> 47d240563c78eb51860ce186524026125836d690
-
-#settings = Settings("PythonUser","Experis123!","PythonTest","MPGSDWPSH0001",1402)
 with open('config.json') as json_data_file:
     data = json.load(json_data_file)
 
@@ -31,7 +25,7 @@ settings = Settings(data)
 
 engine = create_engine('mssql+pymssql://%s:%s@%s:%d/%s' % (settings.user,settings.password,settings.server,settings.port,settings.db))
 Session = sessionmaker(bind=engine)
-#sqlhub.processConnection = connectionForURI('mssql://%s:%s@%s:%d/%s' % (settings.user,settings.password,settings.server,settings.port,settings.db))
+
 Base = declarative_base()
 class Person(Base):
     __tablename__ = "Person"
